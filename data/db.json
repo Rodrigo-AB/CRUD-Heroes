@@ -13,7 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "Bruce Wayne",
+      "alt_img": null
     },
     {
       "id": "dc-superman",
@@ -21,7 +22,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": null
     },
     {
       "id": "dc-flash",
@@ -166,6 +168,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "uOOEMym",
+      "superhero": "Chico perseve",
+      "publisher": "DC Comics",
+      "alter_ego": "Pedro JAmon",
+      "first_appearance": "Fondo de bikini ",
+      "characters": "caballo de mar ",
+      "alt_img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/YoungBarnacleBoy.jpg/440px-YoungBarnacleBoy.jpg"
     }
   ]
 }
